@@ -13,10 +13,14 @@ server
 5. Reset the data stored in the database for a given microwave path to
 the originally uploaded data for that path
 
-![alt text](https://github.com/milleneleao/AppProject/blob/master/client/public/p1.PNG)
+![alt text](https://github.com/OlhaTymoshchuk5/PHPMicrowaveProject/blob/master/css/Images/php1.PNG)
+![alt text](https://github.com/OlhaTymoshchuk5/PHPMicrowaveProject/blob/master/css/Images/php2.PNG)
 
 <h3>Part2</h3>
 1. Edit the data for a selected microwave path.
+
+![alt text](https://github.com/OlhaTymoshchuk5/PHPMicrowaveProject/blob/master/css/Images/php4.PNG)
+![alt text](https://github.com/OlhaTymoshchuk5/PHPMicrowaveProject/blob/master/css/Images/php6.PNG)
 
 <h3>Part3</h3>
 1. Perform the necessary calculations to determine the usability of a
@@ -27,3 +31,5 @@ earth
 4. First Freznel Zone
 5. Display the results of the path calculations in a tabular format, and where
 appropriate in a graphical format.
+![alt text](https://github.com/OlhaTymoshchuk5/PHPMicrowaveProject/blob/master/css/Images/php7.PNG)
+![alt text](https://github.com/OlhaTymoshchuk5/PHPMicrowaveProject/blob/master/css/Images/php9.PNG)
