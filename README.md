@@ -31,5 +31,7 @@ earth
 4. First Freznel Zone
 5. Display the results of the path calculations in a tabular format, and where
 appropriate in a graphical format.
+
 ![alt text](https://github.com/OlhaTymoshchuk5/PHPMicrowaveProject/blob/master/css/Images/php7.PNG)
+
 ![alt text](https://github.com/OlhaTymoshchuk5/PHPMicrowaveProject/blob/master/css/Images/php9.PNG)
