@@ -1,5 +1,5 @@
 # ProjectMicrowave
-Winter 2020 Project - Microave Radio Path Web Site
+Winter 2020 Group Project - Microave Radio Path Web Site
 
 An application that helps telecommunication engineering company yo design microwave communication systems. Created in LAMP Stack using PHP, AJAX, JavaScript, SQL
 
